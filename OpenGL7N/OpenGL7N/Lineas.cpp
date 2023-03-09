@@ -24,7 +24,7 @@ void dibujarLinea() {
 	glVertex2i(400, 400);
 	glVertex2i(250, 600);
 
-	glVertex2i(100, 100);
+	glVertex2i(100, 400);
 	glVertex2i(250, 600);
 	glEnd();
 	glFlush();
